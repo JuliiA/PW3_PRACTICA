@@ -1,0 +1,7 @@
+C:\Users\lab5sql\Desktop\27d08\27d08\bin\Debug\27d08.exe
+C:\Users\lab5sql\Desktop\27d08\27d08\bin\Debug\27d08.pdb
+C:\Users\lab5sql\Desktop\27d08\27d08\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lab5sql\Desktop\27d08\27d08\obj\x86\Debug\27d08.exe
+C:\Users\lab5sql\Desktop\27d08\27d08\obj\x86\Debug\27d08.pdb
+C:\Documents and Settings\Vaio\Mis documentos\Visual Studio 2010\Projects\27d08\27d08\obj\x86\Debug\27d08.exe
+C:\Documents and Settings\Vaio\Mis documentos\Visual Studio 2010\Projects\27d08\27d08\obj\x86\Debug\27d08.pdb
